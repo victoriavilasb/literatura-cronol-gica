@@ -19,9 +19,27 @@
 - [ ] *8*: As metamorfoses - Ovídio
 
 ## DC
+- [ ] *35*: Inácio de Antioquia (patrística)
+- [ ] *35*: Papa Clemente I (patrística)
+- [ ] *69*: Policarpo de Esmirna (patrística)
+- [ ] *100*: Justino (patrística)
 - [ ] *100*: Vidas - Plutarco 
-- [ ] *400*: Confissões
-- [ ] *426*: A cidade de Deus - Santo Agostinho 
+- [ ] *120*: Ireneu de Lyon (patrística)
+- [ ] *150*: Clemente de Alexandria (patrística)
+- [ ] *160*: Tertuliano (patrística)
+- [ ] *185*: Orígenes (patrística)
+- [ ] *210*: Cipriano de Cartago (patrística)
+- [ ] *296*: Atanásio de Alexandria (patrística)
+- [ ] *329*: Gregório de Nazianzo (patrística)
+- [ ] *330*: Gregório de Níssa (patrística)
+- [ ] *347*: Jeronimo (patrística)
+- [ ] *375*: Cirilo de Alexandria (patrística)
+- [ ] *400*: Confissões (patrística)
+- [ ] *426*: A cidade de Deus - Santo Agostinho (patrística)
+- [ ] *445*: Vicente de Lérins (patrística)
+- [ ] *580*: Máximo, o Confessor (patrística)
+- [ ] *613*: Isaque de Nínive (patrística)
+- [ ] *675*: João Damasceno (patrística)
 - [ ] *731*: Historia eclesiástica das gentes e dos anglos - São Beda
 - [ ] *1000*: Beowulf
 - [ ] *1265*: Inferno - Dante Alighieri 
