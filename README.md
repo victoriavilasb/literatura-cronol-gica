@@ -1,2 +1,167 @@
-# literatura-cronol-gica
-Ordem cronológica da Literatura - Baseada no livrod a Susan Wise Bauer
+# Literatura em Ordem Cronológica - Baseada no Livro da Susan Wise Bauer (adições e alterações minhas)
+
+## AC
+- [ ] *2000*: A epopeia de Gilgamesh
+- [ ] *800*: Ilíada e Odisseia 
+- [ ] *600*: Líricos Gregos
+- [ ] *65-8*: Odes de Horácio 
+- [ ] *458*: Agamemnon - Esquilo 
+- [ ] *450*: Édipo Rei - Sófocles 
+- [ ] *442*: Histórias de Heródoto 
+- [ ] *431*: Medeia - Euripedes
+- [ ] *400*: História da Guerra do Peloponeso
+- [ ] *400*: As Aves - Aristófanes 
+- [ ] *375*: A República 
+- [ ] *330*: Poética - Aristoteles
+
+## DC
+- [ ] *100*: Vidas - Plutarco 
+- [ ] *400*: Confissões
+- [ ] *426*: A cidade de Deus - Santo Agostinho 
+- [ ] *731*: Historia eclesiástica das gentes e dos anglos - São Beda
+- [ ] *1000*: Beowulf
+- [ ] *1265*: Inferno - Dante Alighieri 
+- [ ] *1300*: Alto de Moralidade de Todo-o-mundo
+- [ ] *1343*: Os cantos de cantuária - Geoffrey Chaucer
+- [ ] *1350*: Sir Gawain é o Cavaleiro Verde
+- [ ] *1430*: O livro de Margery Kempe 
+- [ ] *1513*: O Principe - Maquiavel
+- [ ] *1516*: Utopia - Sir Thomas More
+- [ ] *1564*: Sonetos - William Shakespeare
+- [ ] *1572*: John Donne
+- [ ] *1580*: Os Ensaios - Michel Montaigne 
+- [ ] *1588*: Livro da Vida - Santa Teresa D’Avila
+- [ ] *1588*: A história trágica de dr fausto
+- [ ] *1592*: Ricardo III
+- [ ] *1594*: Sonho de uma noite de verão
+- [ ] *1600*: Hamlet
+- [ ] *1605*: Dom Quixote -  Miguel de Cervantes
+- [ ] *1608*: Paraíso Perdido
+- [ ] *1611*: King James Bible - Psalms 1, 2, 5, 23, 27, 51, 57, 89, 90, 91, 103, 109, 119, 121, 132, 136, 148, 150
+- [ ] *1641*: Meditações - René Descartes
+- [ ] *1666*: Graça Abundante para o principal dos pecadores - John Bunyan
+- [ ] *1669*: O tartufo - Molière
+- [ ] *1679*: O peregrino - John Bunyan
+- [ ] *1682*: The narrative of captivity and restoration - Mary Rowlandson
+- [ ] *1690*: Segundo tratado sobre o governo - John Locke
+- [ ] *1700*: O caminho do mundo - William Congreve 
+- [ ] *1726*: Viagens de Gulliver - Jonathan Swift
+- [ ] *1754*: A história da Inglaterra - David Hume
+- [ ] *1757*: Canções da Inocência e Da Experiência
+- [ ] *1762*: O contrato social - Jean Jacques Rousseau 
+- [ ] *1770*: William Wordsworth (poesia)
+- [ ] *1772*: Samuel Taylor Coleridge (poesia)
+- [ ] *1773*: Ela ataca para conquistar - Oliver Goldsmith 
+- [ ] *1776*: O senso comum: Thomas Paine
+- [ ] *1776*: Declínio e queda do império romano - Edward Gibbon
+- [ ] *1777*: A escola da má língua - Richard Brinsley Sheridan 
+- [ ] *1792*: Direito das mulheres e injustiça dos homens - Mary Wollstonecraft
+- [ ] *1781*: Confissões - Jean Jacques Rousseau
+- [ ] *1791*: A autobiografia de Benjamin Franklin
+- [ ] *1795*: John Keats (poesia)
+- [ ] *1807*: Henry Wadsworth Longfellow (poesia)
+- [ ] *1809*: Alfred, Lord Tennyson (poesia)
+- [ ] *1815*: Orgulho e preconceito
+- [ ] *1838*: Oliver Twist - Charles Dickers
+- [ ] *1819*: Walt Whitman (poesia)
+- [ ] *1830*: Emily Dickinson (poesia)
+- [ ] *1830*: Christina Rossetti (poesia)
+- [ ] *1835*: Democracia na América - Alexis Tocqueville
+- [ ] *1844*: Gerard Manley Hopkins (poesia)
+- [ ] *1847*: Jane Eyre - Charlotte Bronte
+- [ ] *1848*: O manifesto comunista - Karl Marx e Friedrich Engels
+- [ ] *1850*: A letra escarlate - Nathaniel Hawthorne
+- [ ] *1851*: Moby Dick - Herman Melville
+- [ ] *1851*: A cabana do pai thomas - Harriet Beecher Stowe
+- [ ] *1854*: Walden - Henry David Thoreau 
+- [ ] *1857*: Madame Bovary - Gustave Flaubert 
+- [ ] *1860*: A cultura do renascimento na Itália - Jacob Burckhardt
+- [ ] *1861*: Incidentes de uma escrava contados por ela mesma - Harriet Jacobs
+- [ ] *1865*: William Butler Yeats (poesia)
+- [ ] *1866*: Crime e Castigo - Fiodor Dostoievisk 
+- [ ] *1872*: Paul Laurence Dunbar (poesia)
+- [ ] *1874*: Robert Frost (poesia)
+- [ ] *1877*: Ana Karênina*: Liev Tolstói
+- [ ] *1878*: Carl Sandburg (poesia)
+- [ ] *1878*: O regresso do nativo [The return of the native] - Thomas Hardy
+- [ ] *1879*: Casa de Bonecas - Henrik Ibsen
+- [ ] *1881*: Life and times of Frederick Douglas
+- [ ] *1881*: Retrato de uma senhora - Henry James
+- [ ] *1884*: As aventuras de Huckleberry Finn - Mark Twain
+- [ ] *1888*: T S Elliot (poesia)
+- [ ] *1895*: A Glória de um Coverde - Stephen Crane
+- [ ] *1899*: A importância de ser prudente 
+- [ ] *1901*: Memórias de um negro - Booker T. Washington
+- [ ] *1902*: Coração das Trevas - Joseph Conrad
+- [ ] *1902*: Langston Hughes (poesia)
+- [ ] *1903*: As almas da gente negra - W. E. B. Du Bois
+- [ ] *1904*: O jardim das cerejeiras - Anton Tchekhov
+- [ ] *1904*: A ética protestante e o espírito do capitalismo - Max Weber
+- [ ] *1905*: A casa da felicidade - Edith Wharton 
+- [ ] *1907*: W H Auden (poesia)
+- [ ] *1908*: Ecce Homo - Friedrich Nietzsche 
+- [ ] *1921*: Rainha Vitória - Lytton Strachey
+- [ ] *1922*: Philip Larkin (poesia)
+- [ ] *1924*: Santa Joana - George Bernard Shaw
+- [ ] *1925*: O grande Gatsby - F. Scott Fitzgerald
+- [ ] *1925*: Mrs. Dalloway - Virginia Woolf
+- [ ] *1925*: O processo - Kafka
+- [ ] *1925*: Minha luta - Adolf Hitler
+- [ ] *1926*: Allen Ginsberg (poesia)
+- [ ] *1929*: Adrienne Rich (poesia)
+- [ ] *1929*: O colapso da bolsa - John Kenneth Galbraith 
+- [ ] *1929*: Minha vida e minhas experiencias com a verdade - Mohandas Gandhi
+- [ ] *1932*: Sylvia Plath (poesia)
+- [ ] *1933*: A autobiografia de alice b. Toklas - Gertrude Stein
+- [ ] *1934*: Mark Strand (poesia)
+- [ ] *1935*: Crime na Catedral - T.S.Eliot 
+- [ ] *1937*: O caminho par Wigan Pier - George Orwell
+- [ ] *1938*: Nossa Cidade - Thornton Wilder
+- [ ] *1939*: A mentalidade da nova Inglaterra - Perry Miller
+- [ ] *1939*: Seanus Heaney (poesia)
+- [ ] *1940*: Filho Nativo - Richard Wright
+- [ ] *1940*: Robert Pinsky (poesia)
+- [ ] *1940*: Longa Jornada Noite Adentro - Eugene O’neill 
+- [ ] *1942*: O Estrangeiro - Albert Camus
+- [ ] *1944*: Entre quatro paredes - Jean-Paul Sartre 
+- [ ] *1947*: Jane Kenyon (poesia)
+- [ ] *1947*: Um bonde chamado desejo - Tennesse Williams 
+- [ ] *1948*: A montanha dos sete patamares - Thomas Merton
+- [ ] *1949*: 1984 - George Orwell 
+- [ ] *1949*: A norte do caixeiro viajante - Arthur Miller
+- [ ] *1952*: O homem invisível - Ralph Ellison
+- [ ] *1952*: Rita Dove (poesia)
+- [ ] *1952*: Esperando Godot - Samuel Beckett 
+- [ ] *1956*: Agarre a vida - Saul Bellow
+- [ ] *1959*: O mais longo dos dias - Cornelius Ryan*: Surpreendido pela alegria - C. S. Lewis
+- [ ] *1960*: O homem que n vendeu sua alma - Robert Bolt
+- [ ] *1963*: Mística feminina - Betty Friedan
+- [ ] *1965*: A autobiografia de Malcolm X com a colaboração de Alex haley - Malcolm X
+- [ ] *1967*: Cem anos de solidão - Gabriel García Marquez
+- [ ] *1967*: Rosencrantz e Guildenstern estão mortos - Tom Stoppard 
+- [ ] *1972*: Se um viajante numa noite de inverno - Italo Calvino
+- [ ] *1973*: Journey of solitude - May Sarton
+- [ ] *1973*: Arquipélago Gulag - Aleksandr Soljenítsin
+- [ ] *1974*: Equus - Peter Shaffer 
+- [ ] *1974*: A terra prometida - Eugene D. Genovese
+- [ ] *1977*: Nascido de novo - Charles W. Colson
+- [ ] *1977*: Cântico de Salomão - 1977
+- [ ] *1978*: Um espelho distante - Barbara Tuchman
+- [ ] *1982*: Hunger of Memory The Education of Richard Rodriguez - Richard Rodriguez
+- [ ] *1985*: Ruído Branco - Don Delillo
+- [ ] *1987*: Todos os  homens do presidente - Bob Woodward e Carl Bernstein
+- [ ] *1988*: Battle Cry of Freedom  - James M Macpherson
+- [ ] *1989*: The road from coorain - Jim Ker Conway
+- [ ] *1990*: A midwife’s tale the life of Martha Ballard, Based on Her Diary - Laurel Thatcher Ulrich 
+- [ ] *1990*: Possessão - A. S. Byatt
+- [ ] *1992*: O Fim da História e o Último Homem - Francis Fukuyama 
+- [ ] *1995*: All rivers run to the sea - Elie Wiesel
+
+
+
+ 
+
+
+
+
+
